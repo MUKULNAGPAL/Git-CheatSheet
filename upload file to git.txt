@@ -6,4 +6,8 @@ cd (Folder Name)
  git add .
  git commit -m ""
  git push origin master
-as;ldfjals;kfjas;lkfjs
+
+
+extra git commands 
+ls- list all the folders
+cd ..- it pulls us one folder back
